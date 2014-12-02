@@ -1,0 +1,11 @@
+*.pro.user
+Castle3D
+Castle3D.exe
+*.o
+moc_*.cpp
+Makefile*
+debug
+release
+*.autosave
+*.Debug
+*.Release
